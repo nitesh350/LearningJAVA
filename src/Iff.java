@@ -8,7 +8,6 @@ public class Iff {
             System.out.println("your below ten age and your age is " + age );
         } else if (age<=18) {
             System.out.println("your are in teen age and your age is " + age);
-
         } else {
             System.out.println("your are adult and your age is "+ age);
         }
